@@ -1,0 +1,5 @@
+torch>=2.0
+segmentation-models-pytorch
+shapely
+numpy
+pillow
